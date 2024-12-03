@@ -11,7 +11,7 @@ Este projeto é uma implementação simples do clássico jogo "Jogo dos Oito", q
 ## Como Jogar:
 1. **Iniciar o Jogo**: Ao rodar o programa, uma grade 3x3 de peças numeradas aparecerá em uma janela do tkinter. A peça vazia será representada por um espaço em branco.
 2. **Deslizar as Peças**: Clique em uma peça adjacente ao espaço vazio (acima, abaixo, à esquerda ou à direita) para deslizar a peça para a posição vazia.
-3. **Objetivo**: O objetivo é arranjar as peças na seguinte ordem: 1 2 3 4 5 6 7 8 0, onde `0` representa o espaço vazio.
+3. **Objetivo**: O objetivo é arranjar as peças na seguinte ordem: `1 2 3 4 5 6 7 8 0`, onde `0` representa o espaço vazio.
 4. **Solucionador de IA**: Clique no botão "Resolver (BFS)" para permitir que a IA resolva o quebra-cabeça utilizando o algoritmo BFS.
 
 ## Requisitos:
